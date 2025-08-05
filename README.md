@@ -20,7 +20,7 @@ pip install torch
 The model architecture is stored in FEC_OSL_model.py
 
 ```bash
-autoencoder.py
+FEC_OSL_model.py
 ```
 
 ## Running
