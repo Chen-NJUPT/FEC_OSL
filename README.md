@@ -1,3 +1,18 @@
 # FEC_OSL
-The title of the paper is End-to-End Open-Set Semi-Supervised Learning for Fine-Grained Encrypted Traffic Classification.
-Due to the ongoing submission of the paper, it is not convenient to disclose all the code at this time. We apologize for any inconvenience caused.
+
+## Introduction
+
+This research presents an end-to-end open-set semi-supervised learning framework specifically designed for fine-grained encrypted traffic classification tasks. The proposed method addresses critical issues in traditional encrypted traffic classification, including heavy reliance on labeled data, weak generalization in open-set scenarios, and insufficient classification granularity, providing more accurate technical support for network security, enabling more reliable and flexible solutions.
+
+## Requirements
+
+pip install scipy
+pip install numpy
+pip install pandas
+pip install matplotlib
+pip install sklearn
+pip install torch
+
+## Model Architecture
+
+## Running
